@@ -1,0 +1,30 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: >-
+  Deepfake Detection through separation of feature
+  extraction and classification
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Meghanadh
+    family-names: Pulivarthi
+    email: m.pulivarthi@iitg.ac.in
+    affiliation: IIT Guwahati
+  - given-names: 'Priyanshu '
+    name-particle: Kumar
+    family-names: Jaiswal
+    email: j.priyanshu@iitg.ac.in
+    affiliation: IIT Guwahati
+repository-code: 'https://github.com/meghanadhpulivarthi/BTP-Phase-1'
+abstract: >-
+  Deepfake Detection through seperation of feature
+  extraction and classification. An IIT Guwahati B.Tech
+  Project by Meghanadh Pulivarthi (Roll No. 200123044) and
+  Priyanshu Kumar Jaiswal (Roll No. 200123043)
+keywords:
+  - Deepfake Detection
+  - Computer Vision
